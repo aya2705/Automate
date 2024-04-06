@@ -1,1 +1,2 @@
 # Automate
+Ce projet GitHub propose une suite d'outils pour travailler avec les automates finis. Il comprend des fonctions pour la lecture et le stockage des automates à partir de fichiers, la génération de représentations graphiques, la vérification de mots générés par un automate, ainsi que des opérations telles que l'union, la mise à l'étoile et le produit d'automates. De plus, des fonctionnalités avancées sont fournies, comme la suppression des transitions epsilon et la construction d'automates déterministes et minimaux. 
